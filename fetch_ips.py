@@ -62,8 +62,8 @@ IPADDRESS_PREFIX = ".ipaddress.com"
 HOSTS_TEMPLATE = """# GitHub520 Host Start
 {content}
 # Update time: {update_time}
-# Update url: https://raw.hellogithub.com/hosts
-# Star me: https://github.com/521xueweihan/GitHub520
+# Update url: https://raw.iqiq.io/799036248/GitHub520/main/host
+# Star me: https://github.com/799036248/GitHub520
 # GitHub520 Host End\n"""
 
 
