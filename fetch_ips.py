@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 #   
-#   Author  :   XueWeiHan
-#   E-mail  :   595666367@qq.com
+#   Author  :   Mr.Liu
+#   E-mail  :   799036248@qq.com
 #   Date    :   2020-05-19 15:27
 #   Desc    :   获取最新的 GitHub 相关域名对应 IP
 import os
