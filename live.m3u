@@ -42,12 +42,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
 #EXTINF:-1 ,CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 ,CGTN
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
+
 #EXTINF:-1 ,CGTN
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 ,CGTNDOCUMENTARY
-http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
+
 #EXTINF:-1 ,CGTNDOCUMENTARY
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 #EXTINF:-1 ,中国教育1台
@@ -61,8 +59,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 ,中国教育3台
 https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/2f665915b0-0-0-08b800b5bdd1f6d3f61a673c5eb1afec/index.m3u8
 #EXTINF:-1 ,中国教育4台
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-#EXTINF:-1 ,中国教育4台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 #EXTINF:-1 ,早期教育
 https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
@@ -74,8 +70,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 #EXTINF:-1 ,湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 ,金鹰纪实
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 #EXTINF:-1 ,金鹰卡通
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 #EXTINF:-1 ,金鹰卡通
