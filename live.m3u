@@ -6,10 +6,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
 #EXTINF:-1 ,CCTV2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-#EXTINF:-1 ,CCTV3
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
-#EXTINF:-1 ,CCTV3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+
 #EXTINF:-1 ,CCTV4
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
 #EXTINF:-1 ,CCTV4
