@@ -148,20 +148,13 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 ,四川卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8
-#EXTINF:-1 ,纯享4K
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+
 #EXTINF:-1 ,纯享4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 ,直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV4K
 http://ainm.cc/a/play/php/cctv4k.php?id=4khd
-#EXTINF:-1 ,CCTV4K
-http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 ,CCTV4K
-http://r.jdshipin.com/krMB5
-#EXTINF:-1 ,CCTV4K
-http://nas.jdshipin.com:8801/fmm.php?id=cctv4k
 #EXTINF:-1 ,CCTV4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1 ,CCTV4K
