@@ -71,7 +71,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 ,CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
+EXTINF:-1 ,农民频道
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1705154882&k=5c64c82329b93ef3f5c52a8cf483c681
 
 
 
