@@ -61,7 +61,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 http://nas.jdshipin.com:8801/bst.php?id=cctv16hd4k/15000000
 #EXTINF:-1 ,CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
 #EXTINF:-1,央视台球
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
@@ -470,18 +469,12 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 ,农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 ,潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 ,精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1 ,精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:-1 ,金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
