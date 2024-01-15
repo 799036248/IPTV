@@ -505,14 +505,9 @@ http://epg.112114.xyz/huya/11342412
 http://epg.112114.xyz/huya/28445419
 #EXTINF:-1 group-title="轮播HD",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
-#EXTINF:-1 group-title="轮播HD",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 group-title="轮播HD",女神影院
 https://pull.kktv8.com/livekktv/99350550.flv
-#EXTINF:-1 group-title="轮播HD",午夜影院
-https://pull.kktv8.com/livekktv/99592190.flv
-#EXTINF:-1 group-title="轮播HD",玄幻剧场1
-http://epg.112114.xyz/huya/11342414
 #EXTINF:-1 group-title="轮播HD",盗墓系列
 http://epg.112114.xyz/huya/11352913
 #EXTINF:-1 group-title="轮播HD",年贺岁档
