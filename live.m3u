@@ -518,7 +518,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226261/index.m3u8
 #EXTINF:-1 group-title=保定地方频道 ,新闻综合
 https://35786.hlsplay.aodianyun.com/tv_radio_35786/tv_channel_3067.m3u8?auth_key=1705417022-0-0-05845a3a1fb18501edbaeb19d116fd63&extra_key=xJE7vaim-IbeHORFVzqk2C7pzsrfvfpAQmO_-zGgZPiEaftLPYg4hRe0mP_cY_OSyygHoS7cupFjTs-tm14J2O9XFP1CBFuPBwUvlgYain7xPfbEZj6e8bPnabs9Eg4elN7jIwCzKomaXZ-Jck6nFCiRu73_4L33uf3v3LaXtQI
-
+#EXTINF:-1 group-title=保定地方频道 ,农民
+http://27.185.1.27:8092/hls/16/index.m3u8
 
 #EXTINF:-1 group-title=测试 ,成人
 https://video2.51daao.com/btt1/2020/11/20201104/imsTbfUZ/index.m3u8
