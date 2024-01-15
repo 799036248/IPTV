@@ -543,9 +543,14 @@ http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
 #EXTINF:-1 ,直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1  group-title=超高清频道 ,爱上4K
+#EXTINF:-1 group-title=超高清频道 ,爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-
+#EXTINF:-1 group-title=综艺频道 ,精彩综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
+#EXTINF:-1 group-title=超高清频道 ,SiTV欢笑剧场4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title=超高清频道 ,SiTV欢笑剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 
 #EXTINF:-1 group-title=测试 ,成人
 https://video2.51daao.com/btt1/2020/11/20201104/imsTbfUZ/index.m3u8
