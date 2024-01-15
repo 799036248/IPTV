@@ -364,10 +364,10 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zgqx/1300000/d1.m3u8
 #EXTINF:-1 ,中国天气.备用
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
 http://www.superkit.cn:8888/udp/239.77.1.143:5146
-#EXTINF:-1 ,4K修复 7M2160HEVC
+#EXTINF:-1 group-title=超高清频道 ,4K修复 7M2160HEVC
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 ,北京纪实8K
+#EXTINF:-1 group-title=超高清频道 ,北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 http://downlive.brtvcloud.com/jpegxs1510/8kzuiqingxi.m3u8
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
