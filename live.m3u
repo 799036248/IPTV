@@ -413,7 +413,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1 group-title=爱频道 ,爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 ,黑莓动画
+#EXTINF:-1 group-title=少儿 ,黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title=轮播电影 ,CHC高清电影
