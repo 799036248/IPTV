@@ -4,7 +4,7 @@
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV1.png ,CCTV-1 综合
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV1.png ,CCTV1 综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV1.png ,CCTV1 综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -67,7 +67,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 http://nas.jdshipin.com:8801/bst.php?id=cctv16hd4k/15000000
 #EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV17.png ,CCTV17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/央视频道台球.png ,央视频道台球
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/央视台球.png ,央视台球
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/高尔夫网球.png ,高尔夫网球
