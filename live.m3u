@@ -533,6 +533,16 @@ rtmp://tv.pull.hebtv.com/jishi/jingjishenghuo?t=2510710360&k=e9cb300c86291ab4163
 https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
 #EXTINF:-1 group-title=河北地方频道 ,河北农民
 rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=6f3d40ec06edb677c2f3b6343d950505
+#EXTINF:-1 group-title=河北地方频道 ,石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+#EXTINF:-1 group-title=河北地方频道 ,石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+#EXTINF:-1 group-title=河北地方频道 ,石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+#EXTINF:-1 group-title=河北地方频道 ,石家庄新闻
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+#EXTINF:-1 ,直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1  group-title=超高清频道 ,爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
