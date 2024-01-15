@@ -491,6 +491,119 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
 #EXTINF:-1 group-title=轮播电影 ,全民热练
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226261/index.m3u8
+#EXTINF:-1 group-title="轮播HD",周润发
+http://epg.112114.xyz/huya/11342387
+#EXTINF:-1 group-title="轮播HD",李连杰
+http://epg.112114.xyz/huya/11342390
+#EXTINF:-1 group-title="轮播HD",甄子丹
+http://epg.112114.xyz/huya/11352935
+#EXTINF:-1 group-title="轮播HD",邱淑贞
+http://epg.112114.xyz/huya/11352949
+#EXTINF:-1 group-title="轮播HD",刘德华
+http://epg.112114.xyz/huya/11342424
+#EXTINF:-1 group-title="轮播HD",林正英
+http://epg.112114.xyz/huya/11342421
+#EXTINF:-1 group-title="轮播HD",成龙
+http://epg.112114.xyz/huya/11342386
+#EXTINF:-1 group-title="轮播HD",徐峥
+http://epg.112114.xyz/huya/11602043
+#EXTINF:-1 group-title="轮播HD",沈腾
+http://epg.112114.xyz/huya/11601968
+#EXTINF:-1 group-title="轮播HD",五福星
+http://epg.112114.xyz/huya/11282233
+#EXTINF:-1 group-title="轮播HD",张学友
+http://epg.112114.xyz/huya/11352878
+#EXTINF:-1 group-title="轮播HD",古天乐
+http://epg.112114.xyz/huya/11602041
+#EXTINF:-1 group-title="轮播HD",周星星
+http://epg.112114.xyz/huya/11342412
+#EXTINF:-1 group-title="轮播HD",吴京
+http://epg.112114.xyz/huya/28445419
+#EXTINF:-1 group-title="轮播HD",经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="轮播HD",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="轮播HD",女神影院
+https://pull.kktv8.com/livekktv/99350550.flv
+#EXTINF:-1 group-title="轮播HD",午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 group-title="轮播HD",玄幻剧场1
+http://epg.112114.xyz/huya/11342414
+#EXTINF:-1 group-title="轮播HD",盗墓系列
+http://epg.112114.xyz/huya/11352913
+#EXTINF:-1 group-title="轮播HD",金庸经典
+http://epg.112114.xyz/huya/11342427
+#EXTINF:-1 group-title="轮播HD",卧底&警察
+http://epg.112114.xyz/huya/11279251
+#EXTINF:-1 group-title="轮播HD",黑帮斗争
+http://epg.112114.xyz/huya/11342419
+#EXTINF:-1 group-title="轮播HD",玄幻剧场
+http://epg.112114.xyz/huya/11352973
+#EXTINF:-1 group-title="轮播HD",年贺岁档
+http://epg.112114.xyz/huya/11601986
+#EXTINF:-1 group-title="轮播HD",这很不同
+http://epg.112114.xyz/huya/11602067
+#EXTINF:-1 group-title="轮播HD",女神系列
+http://epg.112114.xyz/huya/11336571
+#EXTINF:-1 group-title="斗鱼HD",邵氏影院
+http://epg.112114.xyz/douyu/4246519
+#EXTINF:-1 group-title="斗鱼HD",华语经典
+http://epg.112114.xyz/douyu/434971
+#EXTINF:-1 group-title="斗鱼HD",漫威影片
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 group-title="斗鱼HD",华语电影
+http://epg.112114.xyz/douyu/3928
+#EXTINF:-1 group-title="斗鱼HD",华语动作电影
+http://epg.112114.xyz/douyu/1504768
+#EXTINF:-1 group-title="斗鱼HD",科幻系列
+http://epg.112114.xyz/douyu/8107217
+#EXTINF:-1 group-title="斗鱼HD",恐怖经典
+http://epg.112114.xyz/douyu/1165374
+#EXTINF:-1 group-title="斗鱼HD",恐怖电影
+http://epg.112114.xyz/douyu/310926
+#EXTINF:-1 group-title="斗鱼HD",喜剧电影
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1 group-title="斗鱼HD",欧美大片
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 group-title="斗鱼HD",译制影片
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1 group-title="斗鱼HD",喜剧经典
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 group-title="斗鱼HD",豆瓣高分
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="斗鱼HD",斗鱼电影4K
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 group-title="斗鱼HD",女神金电影
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="斗鱼HD",贝爷影厅1
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="斗鱼HD",贝爷影厅2
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 group-title="斗鱼HD",霍格影片
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 group-title="斗鱼HD",可乐电影
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="斗鱼HD",冰冰经典电影
+http://epg.112114.xyz/douyu/74374
+#EXTINF:-1 group-title="斗鱼HD",奶虫恐怖电影
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 group-title="斗鱼HD",避风港影院
+http://epg.112114.xyz/douyu/9826611
+#EXTINF:-1 group-title="斗鱼HD",林林影视
+http://epg.112114.xyz/douyu/9652323
+#EXTINF:-1 group-title="斗鱼HD",变种人电影
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 group-title="斗鱼HD",小U电影
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1 group-title="斗鱼HD",小宇60帧
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 group-title="斗鱼HD",麓山迷踪
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 group-title="斗鱼HD",高帧影片
+http://epg.112114.xyz/douyu/6763930
+#EXTINF:-1 group-title="斗鱼HD",米娅电影
+http://epg.112114.xyz/douyu/6537888
+
 
 #EXTINF:-1 group-title=测试 ,成人
 https://video2.51daao.com/btt1/2020/11/20201104/imsTbfUZ/index.m3u8
