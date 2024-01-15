@@ -55,7 +55,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 #EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV13.png ,CCTV13 新闻
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV14.png ,CCTV14 少儿
+#EXTINF:-1 group-title=少儿 tvg-logo=https://live.fanmingming.com/tv/CCTV14.png ,CCTV14 少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV15.png ,CCTV-15 音乐
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
@@ -120,7 +120,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215
 #EXTINF:-1 group-title=少儿 tvg-logo=https://live.fanmingming.com/tv/卡酷少儿.png ,卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,江西卫视
+#EXTINF:-1 group-title=卫视 tvg-logo=https://live.fanmingming.com/tv/江西卫视.png ,江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
