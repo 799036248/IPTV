@@ -551,8 +551,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title=超高清频道 ,SiTV欢笑剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
-
-#EXTINF:-1  roup-title=景区直播 ,全国风景总览
+#EXTINF:-1 roup-title=景区直播 ,全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title=景区直播 ,黟县宏村月沼
 https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
