@@ -268,14 +268,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/3/224/32212281
 http://livelyws.chinamcache.com/lyws/zb01.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title=卫视 tvg-logo=https://live.fanmingming.com/tv/山东卫视.png ,三沙卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 group-title=卫视 tvg-logo=https://live.fanmingming.com/tv/山东卫视.png ,三沙卫视.备用
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1
 #EXTINF:-1 group-title=卫视 tvg-logo=https://live.fanmingming.com/tv/山东卫视.png ,广西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8
