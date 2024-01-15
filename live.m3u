@@ -84,15 +84,15 @@ http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/风云剧场.png ,风云剧场
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1,第一剧场
+#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/第一剧场.png ,第一剧场
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1,风云音乐
+#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/风云音乐.png ,风云音乐
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1,风云足球
+#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/风云足球.png ,风云足球
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1,女性时尚
+#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/女性时尚.png ,女性时尚
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1,卫生健康
+#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/卫生健康.png ,卫生健康
 http://cdn.jdshipin.com:8880/ysp.php?id=wsjk
 http://cfss.cc/api/ysp/wsjk.m3u8
 https://angtv.cc/test/ysp.php?id=wsjk
