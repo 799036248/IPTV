@@ -49,50 +49,50 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV11.png ,CCTV-11 戏曲
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV12.png ,CCTV12 社会与法
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV12.png ,CCTV12 社会与法
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV13.png ,CCTV13 新闻
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV13.png ,CCTV13 新闻
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV13.png ,CCTV13 新闻
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV13.png ,CCTV13 新闻
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 group-title=少儿 tvg-logo=https://live.fanmingming.com/tv/CCTV14.png ,CCTV14 少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV15.png ,CCTV-15 音乐
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV15.png ,CCTV-15 音乐
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV16.png ,CCTV16 奥林匹克
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV16.png ,CCTV16 奥林匹克
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV16.png ,CCTV16 奥林匹克
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV16.png ,CCTV16 奥林匹克
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV16.png ,CCTV16 奥林匹克
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV16.png ,CCTV16 奥林匹克
 http://nas.jdshipin.com:8801/bst.php?id=cctv16hd4k/15000000
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/CCTV17.png ,CCTV17 农业农村
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/CCTV17.png ,CCTV17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/央视台球.png ,央视台球
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/央视频道台球.png ,央视频道台球
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/高尔夫网球.png ,高尔夫网球
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/高尔夫网球.png ,高尔夫网球
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/世界地理.png ,世界地理
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/世界地理.png ,世界地理
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/怀旧剧场.png ,怀旧剧场
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/怀旧剧场.png ,怀旧剧场
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/文化精品.png ,文化精品
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/文化精品.png ,文化精品
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/风云剧场.png ,风云剧场
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/风云剧场.png ,风云剧场
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/第一剧场.png ,第一剧场
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/第一剧场.png ,第一剧场
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/风云音乐.png ,风云音乐
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/风云音乐.png ,风云音乐
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/风云足球.png ,风云足球
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/风云足球.png ,风云足球
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/女性时尚.png ,女性时尚
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/女性时尚.png ,女性时尚
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/卫生健康.png ,卫生健康
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/卫生健康.png ,卫生健康
 http://cdn.jdshipin.com:8880/ysp.php?id=wsjk
 http://cfss.cc/api/ysp/wsjk.m3u8
 https://angtv.cc/test/ysp.php?id=wsjk
@@ -346,7 +346,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m
 http://angtv.cc/test/xg.php?id=ly_4000
 http://www.terrykang.cn:5678/sxg.php?id=ly_4000
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title=央视 tvg-logo=https://live.fanmingming.com/tv/中国天气.png ,中国天气
+#EXTINF:-1 group-title=央视频道 tvg-logo=https://live.fanmingming.com/tv/中国天气.png ,中国天气
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8?
 http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/zgqx/1300000/mnf.m3u8
 http://[240d:c010:30:1::1d]/liveplay-kk.rtxapp.com/live/program/live/zgqx/1300000/mnf.m3u8
