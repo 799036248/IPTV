@@ -437,9 +437,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3
 #EXTINF:-1 group-title=轮播电影 ,超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title=轮播电影 ,超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 #EXTINF:-1 group-title=轮播电影 ,超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
