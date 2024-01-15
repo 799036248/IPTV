@@ -458,26 +458,23 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
 #EXTINF:-1 group-title=轮播电影 ,欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 group-title=瑜伽频道 ,全民热练
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226261/index.m3u8
-#EXTINF:-1 group-title="轮播HD",周润发
+#EXTINF:-1 group-title=轮播电影,周润发
 http://epg.112114.xyz/huya/11342387
-#EXTINF:-1 group-title="轮播HD",李连杰
+#EXTINF:-1 group-title=轮播电影,李连杰
 http://epg.112114.xyz/huya/11342390
-#EXTINF:-1 group-title="轮播HD",刘德华
+#EXTINF:-1 group-title=轮播电影,刘德华
 http://epg.112114.xyz/huya/11342424
-#EXTINF:-1 group-title="轮播HD",林正英
+#EXTINF:-1 group-title=轮播电影,林正英
 http://epg.112114.xyz/huya/11342421
-#EXTINF:-1 group-title="轮播HD",周星星
+#EXTINF:-1 group-title=轮播电影,周星星
 http://epg.112114.xyz/huya/11342412
-#EXTINF:-1 group-title="轮播HD",女神影院
+#EXTINF:-1 group-title=轮播电影,女神影院
 https://pull.kktv8.com/livekktv/99350550.flv
-#EXTINF:-1 group-title="轮播HD",盗墓系列
+#EXTINF:-1 group-title=轮播电影,盗墓系列
 http://epg.112114.xyz/huya/11352913
-#EXTINF:-1 group-title="轮播HD",年贺岁档
+#EXTINF:-1 group-title=轮播电影,年贺岁档
 http://epg.112114.xyz/huya/11601986
-#EXTINF:-1 group-title="轮播HD",这很不同
+#EXTINF:-1 group-title=轮播电影,这很不同
 http://epg.112114.xyz/huya/11602067
 #EXTINF:-1 group-title="斗鱼HD",邵氏影院
 http://epg.112114.xyz/douyu/4246519
@@ -525,6 +522,10 @@ http://epg.112114.xyz/douyu/96577
 http://epg.112114.xyz/douyu/323876
 #EXTINF:-1 group-title="斗鱼HD",麓山迷踪
 http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 group-title=瑜伽频道 ,全民热练
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226261/index.m3u8
+
 
 
 #EXTINF:-1 group-title=测试 ,成人
