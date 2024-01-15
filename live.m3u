@@ -430,10 +430,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8
 http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226324/index.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title=轮播电影 ,全纪实
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226580/index.m3u8
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title=轮播电影 ,超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
