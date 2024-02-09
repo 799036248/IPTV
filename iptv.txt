@@ -36,6 +36,7 @@ CHC家庭影院 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 CHC高清电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 信号测试1 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 信号测试2 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
+香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 央视频道,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226246/index.m3u8
