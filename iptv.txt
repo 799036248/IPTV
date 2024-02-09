@@ -115,6 +115,7 @@ CCTV风云剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
 CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 精彩综艺 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 CHC动作电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -294,34 +295,6 @@ CCTV17 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m
 江西龙虎山中间水泡,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
 江西龙虎山山涧栈道,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-
-影视综合,#genre#
-1905电影台,https://hlslive.1905.com/live/LIVENCOI8M4RGOOJ9/index.m3u8?tm=1705765226&sign=8f363ed3c4be62d1a73cc8d316095ba8
-CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-万州影视,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8#http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-河北影视,https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
-兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
-吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8#http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
-滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
-菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-新泰影视,http://111.17.214.4:1935/live/xtys/playlist.m3u8
-新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8#http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
-美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
-CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
-平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
-新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 
 经典小品,#genre#
 策划,https://vd3.bdstatic.com/mda-ki60ag5ub193axs9/hd/mda-ki60ag5ub193axs9.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
