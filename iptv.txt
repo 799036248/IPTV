@@ -86,8 +86,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 超清频道,#genre#
 CCTV1 MAX,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1528379826_-632121028/ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8?icpid=3&RTS=1674385938&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1674386335&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV2 MAX,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1742213158_1775644325/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1674386152&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV3 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
