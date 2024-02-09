@@ -134,27 +134,6 @@ CCTV13 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225774/index.m
 CCTV14 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
 CCTV17 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
 
-河北综合,#genre#
-河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
-鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd#https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
-邢台综合频道,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
-邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8#https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd#http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
-邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd#http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd#https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
-昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd#https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-
-少儿动画,#genre#
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8#http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-少儿综合,https://hls.gstv.com.cn/49048r/922k96.m3u8
-猫和老鼠,https://al.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=d959d695e6d27f079035dfa4556bd097&wsTime=6464862e&u=0&seqid=16842231801685337&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3Aqzeic1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_2000
-炫动卡通,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001232/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-金鹰卡通,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001098/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-卡酷动画,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001245/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-动漫秀场,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001196/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-韩国EBS少儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-
 直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
