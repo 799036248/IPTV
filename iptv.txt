@@ -1,4 +1,14 @@
-PTV,#genre#
+欢迎使用,#genre#
+BY：Mr.Liu,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
+一切免费,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
+佛系更新,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
+QQ号：799036248,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
+微信号：MrLiu-0329,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
+门口监控,rtsp://192.168.5.5/live/ch00_1
+高阳北外广场,https://d651af7446396c0c4b5ad4e8896802c9.livehwc3.cn/play.hebitt.com/live/ed5a745a-b5d5-4f96-91b9-c6ef7015691a.m3u8?txSecret=e25368feccefec1d7e2c0706c6c3e29b&user_session_id=d5001433acef0e5012da5072b3aaa2d6&sub_m3u8=true&edge_slice=true&txTime=65427BF1
+高阳西内广场,https://d651af7446396c0c4b5ad4e8896802c9.livehwc3.cn/play.hebitt.com/live/67bad5af-cf27-4869-a8bc-005b0281dff9.m3u8?sub_m3u8=true&edge_slice=true&txSecret=1d9a999248ae628ba50febaaf5a7a6ae&txTime=65427DC5&user_session_id=832abc0d0e9b4d4b13e8df507aee053e
+
+IPTV,#genre#
 CCTV-1,http://1.195.131.251:9909/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://1.195.131.251:9909/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://1.195.131.251:9909/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -204,17 +214,7 @@ CCTV-17农业农村,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/P
 河北频道,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 央视动画,https://hls.gstv.com.cn/49048r/922k96.m3u8
 
-欢迎使用,#genre#
-BY：Mr.Liu,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
-一切免费,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
-佛系更新,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
-QQ号：799036248,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
-微信号：MrLiu-0329,https://raw.kkgithub.com/799036248/IPTV/main/video_WebTitle_batch.mp4
-门口监控,rtsp://192.168.5.5/live/ch00_1
-高阳北外广场,https://d651af7446396c0c4b5ad4e8896802c9.livehwc3.cn/play.hebitt.com/live/ed5a745a-b5d5-4f96-91b9-c6ef7015691a.m3u8?txSecret=e25368feccefec1d7e2c0706c6c3e29b&user_session_id=d5001433acef0e5012da5072b3aaa2d6&sub_m3u8=true&edge_slice=true&txTime=65427BF1
-高阳西内广场,https://d651af7446396c0c4b5ad4e8896802c9.livehwc3.cn/play.hebitt.com/live/67bad5af-cf27-4869-a8bc-005b0281dff9.m3u8?sub_m3u8=true&edge_slice=true&txSecret=1d9a999248ae628ba50febaaf5a7a6ae&txTime=65427DC5&user_session_id=832abc0d0e9b4d4b13e8df507aee053e
 
-仙仙欲死,#genre#
 
 
 
