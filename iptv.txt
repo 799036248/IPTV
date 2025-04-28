@@ -1,3 +1,20 @@
+PTV,#genre#
+CCTV-1,http://1.195.131.251:9909/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://1.195.131.251:9909/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://1.195.131.251:9909/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://1.195.131.251:9909/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://1.195.131.251:9909/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://1.195.131.251:9909/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://1.195.131.251:9909/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://1.195.131.251:9909/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://1.195.131.251:9909/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://1.195.131.251:9909/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://1.195.131.251:9909/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://1.195.131.251:9909/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://1.195.131.251:9909/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://1.195.131.251:9909/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://1.195.131.251:9909/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 黑龙江,#genre#
 CCTV1-综合,http://111.43.126.240:9003/hls/13/index.m3u8
