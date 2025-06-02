@@ -35,26 +35,6 @@ cctv8k,https://nptv.freetv.top/nptv/cctv8k.m3u8
 发现之旅,https://www.freetv.top/migu/624878970.m3u8?migutoken=96340be0ccf6bc216133a35848a8cc27665fd447b5fa5d50b979d67dfad1148a5cf68348f8db16f309da2682c0716243cbad3e9127942e6054d703cf85d8e31bb39605d6f6d3f52605011b92ec
 中学生,https://www.freetv.top/migu/708869532.m3u8?migutoken=dea7c3de79bdcb0285aa12f8cacbe6fa922994d9acfd628ebd0557dacf02d8288a3e673769bba375732f9c2ddef171c7d59a01bf96592c1758e0a717041c9d034a941dde3a6e0ad2de82f98399
 
-
-
-IPTV,#genre#
-CCTV-1,http://1.195.131.251:9909/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://1.195.131.251:9909/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://1.195.131.251:9909/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://1.195.131.251:9909/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://1.195.131.251:9909/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://1.195.131.251:9909/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://1.195.131.251:9909/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://1.195.131.251:9909/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://1.195.131.251:9909/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://1.195.131.251:9909/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://1.195.131.251:9909/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://1.195.131.251:9909/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://1.195.131.251:9909/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://1.195.131.251:9909/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://1.195.131.251:9909/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
 黑龙江,#genre#
 CCTV1-综合,http://111.43.126.240:9003/hls/13/index.m3u8
 CCTV2-财经,http://111.43.126.240:9003/hls/14/index.m3u8
