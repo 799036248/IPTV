@@ -1,9 +1,9 @@
 欢迎使用,#genre#
-BY：Mr.Liu,https://www.heishenhua.com/img/Wallpaper/blackmyth_wukong_wallpaper_m_035.jpg
-一切免费,https://www.heishenhua.com/img/Wallpaper/blackmyth_wukong_wallpaper_m_035.jpg
-佛系更新,https://www.heishenhua.com/img/Wallpaper/blackmyth_wukong_wallpaper_m_035.jpg
-QQ号：799036248,https://www.heishenhua.com/img/Wallpaper/blackmyth_wukong_wallpaper_m_035.jpg
-微信号：MrLiu-0329,https://www.heishenhua.com/img/Wallpaper/blackmyth_wukong_wallpaper_m_035.jpg
+BY：Mr.Liu,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+一切免费,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+佛系更新,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+QQ号：799036248,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+微信号：MrLiu-0329,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 门口监控,rtsp://192.168.5.5/live/ch00_1
 高阳北外广场,https://d651af7446396c0c4b5ad4e8896802c9.livehwc3.cn/play.hebitt.com/live/ed5a745a-b5d5-4f96-91b9-c6ef7015691a.m3u8?txSecret=e25368feccefec1d7e2c0706c6c3e29b&user_session_id=d5001433acef0e5012da5072b3aaa2d6&sub_m3u8=true&edge_slice=true&txTime=65427BF1
 高阳西内广场,https://d651af7446396c0c4b5ad4e8896802c9.livehwc3.cn/play.hebitt.com/live/67bad5af-cf27-4869-a8bc-005b0281dff9.m3u8?sub_m3u8=true&edge_slice=true&txSecret=1d9a999248ae628ba50febaaf5a7a6ae&txTime=65427DC5&user_session_id=832abc0d0e9b4d4b13e8df507aee053e
